@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kulompx.cn/sitemap.xml
